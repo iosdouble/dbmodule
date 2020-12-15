@@ -1,5 +1,3 @@
-
-//---------dao层--------------
 package com.nh.dbmodule.dao;
 
 
